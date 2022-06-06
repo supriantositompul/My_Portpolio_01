@@ -1,4 +1,4 @@
-# M01 Academic Stats
+# [PBO] - Programming - Taks
 
 Pada case ini, anda diminta untuk mengembangkan beberapa fitur tambahan dalam Academic Simulator. Pada Tugas-tugas sebelumnya anda telah mengembangkan berbagai fitur manajemen data untuk beberapa entitas yang berada di lingkungan akademik, seperti dosen (```lecturer```), mata kuliah (```course```), mahasiswa (```student```), dan rencana studi (```enrollment```). Di akhir eksekusi, solusi anda telah mampu secara otomatis menampilkan seluruh data dari entitas-entitas yang tersimpan.
 
