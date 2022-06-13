@@ -1,8 +1,8 @@
 # [PBO] - Programming - Taks
 
-Pada case ini, diminta untuk mengembangkan beberapa fitur tambahan dalam Academic Simulator. Pada Tugas-tugas sebelumnya anda telah mengembangkan berbagai fitur manajemen data untuk beberapa entitas yang berada di lingkungan akademik, seperti dosen (```lecturer```), mata kuliah (```course```), mahasiswa (```student```), dan rencana studi (```enrollment```). Di akhir eksekusi, solusi anda telah mampu secara otomatis menampilkan seluruh data dari entitas-entitas yang tersimpan.
+Pada studi kasus ini, diminta untuk mengembangkan beberapa fitur dalam Academic Simulator. Mengembangkan berbagai fitur manajemen data untuk beberapa entitas yang berada di lingkungan akademik, seperti dosen, mata kuliah, mahasiswa, dan rencana studi. Di mana pad akhir solusi secara otomatis akan menampilkan seluruh data dari entitas yang tersimpan.
 
-Dalam menyelesaikan ujian ini, anda diperbolehkan untuk mendefinisikan kelas-kelas lain yang menurut anda diperlukan. Perlu diingat, kelas-kelas tersebut harus dijabarkan juga pada saat presentasi.
+Dalam menyelesaikan kasus ini, anda diperbolehkan untuk mendefinisikan kelas-kelas lain yang menurut anda diperlukan. Perlu diingat, kelas-kelas tersebut harus dijabarkan juga pada saat presentasi.
 
 ## Task 01: Grading (academic.driverDriver1, 40pts)
 
